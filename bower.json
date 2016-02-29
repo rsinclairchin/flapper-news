@@ -1,0 +1,18 @@
+{
+  "name": "flapper-news",
+  "homepage": "https://github.com/rsinclairchin/flapper-news",
+  "authors": [
+    "r.sinclairchin <r.sinclairchin@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
